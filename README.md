@@ -24,18 +24,16 @@ The value is the degree unit in the script.
 
 
 3. IPF axis
-There are 3 axes in inverse pole figure (IPF).
-Metallurgist describe them as RD (rolling direction), TD (transverse direction), and ND (normal direction).
+There are 3 axes in the inverse pole figure (IPF).
+Metallurgists describe them as RD (rolling direction), TD (transverse direction), and ND (normal direction).
 They are IPF-X, IPF-Y, and IPF-Z, respectively.
 They should be "ipf_x", "ipf_y", and "ipf_z".
 
 
 4. phase
-The IPF is dependant on the crystal symmetry.
-Therefore the crystalline phase should be defined for the IPF plot.
-This version support cubic, hexagonal, and tetragonal.
+The IPF is dependent on the crystal symmetry.
+Therefore, the crystalline phase should be defined for the IPF plot.
+This version supports cubic, hexagonal, and tetragonal.
 To set it to cubic, set "phase = 0".
 For hexagonal and tetragonal, set it to "1", and "2", respectively.
-
-
 
