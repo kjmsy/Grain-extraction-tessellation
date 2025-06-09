@@ -650,3 +650,5 @@ ax_e.axis('equal')
 ax_f.axis('equal')
 
 fig.tight_layout()
+
+plt.show()
