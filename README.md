@@ -1,3 +1,5 @@
+The code is developed under Python 3.13.2 together with Spyder.
+
 The input variables in the cal_tessellation_0.py are 
 data file name, misorientation threshold, IPF axis, and crystalline phase.
 
