@@ -14,7 +14,6 @@ U = | u_11 u_12 u_13 |
 The transpose of U is g, which is usually used in the EBSD (Electron back scatter diffraction) measurement.
     
 
-
 2. Misorientation threshold
 Let's consider 2 neighboring pixels.
 If their misorientations are below the threshold, we can consider them as a connected grain.
