@@ -4,7 +4,7 @@
 # x y u_11 u_12 u_13 u_21 u_22 u_23 u_31 u_32 u_33
 
 input_file = 'example_1.txt'
-misori_threshold = 5 #degree unit, equal or greater
+misori_threshold = 3 #degree unit, equal or greater
 ipf_sel = 'ipf_z' #'ipf_x', 'ipf_y', 'ipf_z'
 phase = 0     # 0 / 1 / 2 : cubic / hexagonal / tetragonal
 
