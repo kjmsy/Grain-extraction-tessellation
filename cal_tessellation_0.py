@@ -1,3 +1,5 @@
+## Coded by Jaemyung Kim (kjmsyida@gmail.com)
+
 #%% Input parameters
 
 # input file structure
