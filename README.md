@@ -1,6 +1,17 @@
+
+Tessellation-based grain boundary determination for X-ray orientation microscopies
+
+Jaemyung Kim, Yujiro Hayashi, Sung Soo Ha, Makina Yabashi,
+Computer Physics Communications (2026). 320, 109988
+https://doi.org/10.1016/j.cpc.2025.109988.
+(https://www.sciencedirect.com/science/article/pii/S0010465525004898)
+
+Figures in the paper can be reproduced from the Python scripts.
+
+
 The code is developed under Python 3.13.2 together with Spyder.
 
-The input variables in the cal_tessellation_0.py are 
+The input variables in the files are 
 data file name, misorientation threshold, IPF axis, and crystalline phase.
 
 
