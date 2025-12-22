@@ -20,10 +20,15 @@ data file name, misorientation threshold, IPF axis, and crystalline phase.
 x y u_11 u_12 u_13 u_21 u_22 u_23 u_31 u_32 u_33
 
 x, and y are position.
+
 u_11 u_12 u_13 u_21 u_22 u_23 u_31 u_32 u_33 --> Orientation matrix U
+
 U = | u_11 u_12 u_13 |
+
     | u_21 u_22 u_23 |
+
     | u_31 u_32 u_33 |
+
 The transpose of U is g, which is usually used in the EBSD (Electron back scatter diffraction) measurement.
     
 
